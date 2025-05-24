@@ -1,0 +1,12 @@
+# Define your jobs here:
+# - name: unique job name
+# - enabled: true to activate the job, false to skip
+# - schedule: cron expression (e.g., "* * * * *" for every minute)
+# - db_type: (only mysql for now :( )
+# - database: database name to backup
+# - username: database username
+# - password: database password
+# - compressed: true to gzip the backup, false otherwise
+
+
+jobs:
